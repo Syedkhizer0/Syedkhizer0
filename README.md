@@ -5,15 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedkhizer0" alt="syedkhizer0" /></a> </p>
 
-- 🔭 I’m currently Student on **SMIT**
 
-- 🌱 I’m currently learning **Mern-stack devlop**
-
-- 💬 Ask me about **react , javascript ,and many more**
-
-- 📫 How to reach me **alikhizer293@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
