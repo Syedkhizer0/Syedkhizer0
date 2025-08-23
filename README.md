@@ -42,5 +42,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedkhizer0&show_icons=true&locale=en&layout=compact" alt="syedkhizer0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedkhizer0&show_icons=true&locale=en" alt="syedkhizer0" /></p>
+ <h1> thanks for visiting my website</h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedkhizer0&" alt="syedkhizer0" /></p>
